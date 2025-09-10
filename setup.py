@@ -11,9 +11,6 @@ AUTHOR_USER_NAME = "fatmahassann"
 SRC_REPO = "WineQualityProject"
 AUTHOR_EMAIL = "fatfatthassan2@gmail.com"
 
-
-
-
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
