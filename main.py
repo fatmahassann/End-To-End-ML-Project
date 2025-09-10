@@ -1,1 +1,3 @@
-from src.WineQualityProject.config import configuration
+from WineQualityProject import logger
+
+logger.info("my name is fatma!")

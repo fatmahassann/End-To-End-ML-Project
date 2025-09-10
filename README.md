@@ -1,6 +1,6 @@
 # End-To-End-ML-Project
 ```bash
-conda create -n Wine-Quality python=3.8 -y
+conda create -n Wine-Quality 
 ```
 
 ```bash
